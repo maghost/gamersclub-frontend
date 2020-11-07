@@ -1,10 +1,10 @@
 {
   "name": "@gamersclub-frontend/product-one",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
-    "@gamersclub-frontend/common-utils": "*",
-    "@gamersclub-frontend/ui-components": "*",
+    "@gamersclub-frontend/common-utils": "^1.0.1",
+    "@gamersclub-frontend/ui-components": "^1.0.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
