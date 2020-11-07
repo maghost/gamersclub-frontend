@@ -1,10 +1,10 @@
 {
-  "name": "common-utils",
+  "name": "@gamersclub-frontend/common-utils",
   "version": "0.0.1",
   "description": "Made with create-react-library",
   "author": "maghost",
   "license": "MIT",
-  "repository": "maghost/common-utils",
+  "repository": "maghost/gamersclub-frontend",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -49,5 +49,6 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "gitHead": "965711c0fcf8407d711570a324164176d7a8d185"
 }

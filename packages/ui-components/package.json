@@ -1,5 +1,5 @@
 {
-  "name": "ui-components",
+  "name": "@gamersclub-frontend/ui-components",
   "version": "0.0.1",
   "description": "Made with create-react-library",
   "author": "maghost",
@@ -49,5 +49,6 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "gitHead": "965711c0fcf8407d711570a324164176d7a8d185"
 }

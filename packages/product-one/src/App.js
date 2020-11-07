@@ -1,8 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { Button } from 'ui-components';
-import { formatDate } from 'common-utils';
+import { Button } from '@gamersclub-frontend/ui-components';
+import { formatDate } from '@gamersclub-frontend/common-utils';
 
 function App() {
   return (
